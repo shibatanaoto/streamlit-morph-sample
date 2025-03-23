@@ -36,4 +36,3 @@ Create a Github repository and push the project.
 And then, you can deploy the app from Morph Dashboard.
 
 https://docs.morph-data.io/docs/en/quickstart/deploy
-
