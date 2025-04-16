@@ -9,3 +9,6 @@ df: pd.DataFrame = pd.DataFrame(
     columns=["x", "y", "z"]
 )
 st.line_chart(df)
+
+if st.button("Click me!"):
+    st.write("Hi!")
