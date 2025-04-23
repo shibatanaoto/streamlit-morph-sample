@@ -11,4 +11,5 @@ df: pd.DataFrame = pd.DataFrame(
 st.line_chart(df)
 
 if st.button("Click me!"):
+    print("thank you!")
     st.write("Hi!")
